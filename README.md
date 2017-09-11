@@ -82,6 +82,8 @@ En otro caso, la nota se calcula como:
 
 _NF = min(3.9, 0.5·NC + 0.5·NP)_
 
+Todas las notas del curso se publicarán en esta [planilla](https://docs.google.com/a/uc.cl/spreadsheets/d/13bCgUo7hP0n-U4EZMyCn2nrlEWF30XHgOX8vWuOP9vc/edit?usp=sharing).
+
 ---
 
 ## Foro
