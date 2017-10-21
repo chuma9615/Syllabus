@@ -1,0 +1,27 @@
+[
+	{	"uid": 1,
+		"name": "Adrian", 
+		"last_name": "Soto", 
+		"ocupation": "Delantero de Cobreloa"
+	},
+	{	"uid": 2,
+		"name": "Florencia", 
+		"last_name": "Barrios", 
+		"ocupation": "Hacker de Pet Society"
+	},
+	{	"uid": 3,
+		"name": "Devil", 
+		"last_name": "Sawak", 
+		"ocupation": "Dueño de Quik Devil"
+	},
+	{	"uid": 4,
+		"name": "Nebil", 
+		"last_name": "Kawas", 
+		"ocupation": "DT de Palestino"
+	},
+	{	"uid": 5,
+		"name": "Fernando", 
+		"last_name": "Pieressa", 
+		"ocupation": "Traductor"
+	}
+]
