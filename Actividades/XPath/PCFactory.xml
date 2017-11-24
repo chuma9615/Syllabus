@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<Productos>
+    <Fabricante nombre="A">
+        <PC modelo="pc10001" precio="2114">
+            <Velocidad>2.66</Velocidad>
+            <RAM>1024</RAM>
+            <DiscoDuro>512</DiscoDuro>
+        </PC>
+        <Laptop modelo="la2004" precio="914">
+            <Velocidad>1.66</Velocidad>
+            <RAM>4096</RAM>
+            <Pantalla>13.3</Pantalla>
+        </Laptop>
+        <PC modelo="pc404" precio="3000">
+            <Velocidad> 3.3 </Velocidad>
+            <RAM> 16 </RAM>
+        </PC>
+    </Fabricante>
+    <Fabricante nombre="E">
+        <PC modelo="pc1011" precio="959">
+            <Velocidad>1.86</Velocidad>
+            <RAM>2048</RAM>
+        </PC>
+        <Impresora modelo="im3002" precio="239">
+            <Color>Si</Color>
+            <Tipo>Laser</Tipo>
+        </Impresora>
+        <Cable modelo="ca303" precio="2000">
+                <Tipo>USB 3.0</Tipo>
+        </Cable>
+        <PC modelo="pc404" precio="3000">
+            <Velocidad> 3.3 </Velocidad>
+            <RAM> 16 </RAM>
+        </PC>
+        <PC modelo="pc503" precio="3001">
+            <Velocidad> 3.4 </Velocidad>
+            <RAM> 16 </RAM>
+        </PC>
+    </Fabricante>
+    <Fabricante nombre="D">
+        <PC modelo="pc404" precio="3000">
+            <Velocidad> 3.3 </Velocidad>
+            <RAM> 16 </RAM>
+        </PC>
+    </Fabricante>
+    <Fabricante nombre="Epson">
+        <Impresora modelo="im3003" precio="2329">
+            <Color>Si</Color>
+            <Tipo>Laser</Tipo>
+        </Impresora>
+        <Impresora modelo="im3102" precio="2309">
+            <Color>Si</Color>
+            <Tipo>Laser</Tipo>
+        </Impresora>
+    </Fabricante>
+</Productos>
